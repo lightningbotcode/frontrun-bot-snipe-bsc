@@ -16,3 +16,8 @@ Bot can front run by setting higher gas fee and using direct node for transactio
 - Bot is preconfigured for Pancakeswap on BSC. Review configuration in constants.js. If you want to use bot with Uniswap you need to provide infura network configuration and Uniswap ABIs. Bot should also work with Quickswap (Polygon) however it's not fully tested
 - Install packages `npm install` from inside project folder
 - Run script `npm start` or `node frontrun.js`.
+
+## Compatibility
+- windows 7 and above with node js installed
+- linux based operating system 
+- eth,polygon,avalanche compatible bot (manual setting)
