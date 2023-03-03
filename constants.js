@@ -7,7 +7,7 @@ const PANCAKE_ROUTER_ABI = [{"inputs":[{"internalType":"address","name":"_factor
 
 // This setting is Preconfigured for BSC and Pancakeswap
 
-// To use with Uniswap use infura endpoint and configure Uniswap ABIs above. 
+// To use with Polygop, Uniswap use infura endpoint and configure Uniswap ABIs above and below. 
 const NETWORK = "mainnet";
 const HTTP_PROVIDER_LINK = `https://bsc-dataseed1.binance.org:443`;
 const WEBSOCKET_PROVIDER_LINK = `wss://bsc.getblock.io/94303bb3-3843-4d32-9a9c-82967e709433/mainnet`;
